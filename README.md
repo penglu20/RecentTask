@@ -18,7 +18,7 @@
 
 ######改进版，正确的判断前台应用：
 
-![改进版](https://raw.githubusercontent.com/l465659833/RecentTask/master/gif/Improved.gif)
+![改进版](https://raw.githubusercontent.com/l465659833/RecentTask/master/pics/Improved.gif)
 
 
 
